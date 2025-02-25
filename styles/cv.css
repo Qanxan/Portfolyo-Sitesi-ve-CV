@@ -1,0 +1,48 @@
+h1,h2,h3{
+    margin: 0
+} 
+.header{
+    border: 0.1rem solid;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    height: 9.64rem;
+}
+img {
+    height: 10.667rem;
+    width: 8.268rem;
+    float: right;
+    margin: -1rem;
+    
+}
+.contact {
+    position: relative;
+    text-align: right;
+    top: -2.3rem;
+    right: 2rem;
+    overflow: hidden;
+}
+.summary{
+    border: 0.1rem solid;
+    padding: 1rem;
+}
+.skills {
+    border: 0.1rem solid;
+    padding: 1rem;
+    height: 11rem;
+}
+.lang {
+    position: relative;
+    text-align: right;
+    top: -8.5rem;
+}
+.edu {
+    border: 0.1rem solid;
+    padding: 1rem;
+    height: 6rem;
+}
+.edu2 {
+    position: relative;
+    text-align: right;
+    top: -2.5rem;
+}
